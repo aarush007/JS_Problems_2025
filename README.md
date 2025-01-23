@@ -7,3 +7,4 @@ This repository contains Javascript problem solving exercises categorized into B
 ### Basics
 
 - Check if a number is even or odd.
+- Find the largest of three numbers.
