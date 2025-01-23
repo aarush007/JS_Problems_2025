@@ -8,3 +8,4 @@ This repository contains Javascript problem solving exercises categorized into B
 
 - Check if a number is even or odd.
 - Find the largest of three numbers.
+- Find average marks and determine grade.
