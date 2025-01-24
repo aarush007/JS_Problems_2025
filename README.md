@@ -11,3 +11,4 @@ This repository contains Javascript problem solving exercises categorized into B
 - Find average marks and determine grade.
 - Calculate electricity bill.
 - Calculate Net Amount After Flipkart Discount.
+- Day name based on day number.
