@@ -10,3 +10,4 @@ This repository contains Javascript problem solving exercises categorized into B
 - Find the largest of three numbers.
 - Find average marks and determine grade.
 - Calculate electricity bill.
+- Calculate Net Amount After Flipkart Discount.
