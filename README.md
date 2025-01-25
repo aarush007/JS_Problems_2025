@@ -13,3 +13,4 @@ This repository contains Javascript problem solving exercises categorized into B
 - Calculate Net Amount After Flipkart Discount.
 - Day name based on day number.
 - Print all the even numbers from an array.
+- Count even numbers in an array.
