@@ -14,3 +14,4 @@ This repository contains Javascript problem solving exercises categorized into B
 - Day name based on day number.
 - Print all the even numbers from an array.
 - Count even numbers in an array.
+- Find the sum of all the digits of an array.
