@@ -15,3 +15,7 @@ This repository contains Javascript problem solving exercises categorized into B
 - Print all the even numbers from an array.
 - Count even numbers in an array.
 - Find the sum of all the digits of an array.
+
+### Intermediate
+
+- High Order Function.
