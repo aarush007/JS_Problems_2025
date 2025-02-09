@@ -19,3 +19,4 @@ This repository contains Javascript problem solving exercises categorized into B
 ### Intermediate
 
 - High Order Function.
+- Map Polyfill.
