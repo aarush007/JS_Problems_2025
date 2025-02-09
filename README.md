@@ -21,3 +21,4 @@ This repository contains Javascript problem solving exercises categorized into B
 - High Order Function.
 - Map Polyfill.
 - Filter Polyfill.
+- Reduce Method.
