@@ -26,3 +26,8 @@ This repository contains Javascript problem solving exercises categorized into B
 - Call, Apply and Find
 - Currying
 - sum(1)(2)(3)(4)(5)...()
+- Bind Polyfill
+- Throttling
+- Debouncing
+- Callback
+- Promise
