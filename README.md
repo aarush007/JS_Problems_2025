@@ -30,4 +30,18 @@ This repository contains Javascript problem solving exercises categorized into B
 - Throttling
 - Debouncing
 - Callback
-- Promise
+- Promise Consumer
+- Promise Provider
+- Capitalize first letter of a string
+- Count number of vowels in a string
+- Extract vowels from a string
+- Find first non-repeating character of a string
+- Flatten an array
+- Group by Age
+- Palindrom String
+- Remove duplicates from an array
+- Reverse the sentence
+- Reverse the string
+- Find second largest number from an array
+- Word Logger
+- this keyword
