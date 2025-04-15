@@ -45,3 +45,4 @@ This repository contains Javascript problem solving exercises categorized into B
 - Find second largest number from an array
 - Word Logger
 - this keyword
+- Print all possible words of a string
