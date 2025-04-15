@@ -1,6 +1,6 @@
 const sentence = "Hello Ashutosh, Have a good day!";
 const words = sentence.split(" ");
-const index = 0;
+let index = 0;
 
 const intervalId = setInterval(() => {
   if (index < words.length) {
