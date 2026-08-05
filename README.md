@@ -52,3 +52,4 @@ This repository contains Javascript problem solving exercises categorized into B
 - Group employees by department
 - Merge two arrays of objects by id
 - Map Polyfill
+- Filter Polyfill
