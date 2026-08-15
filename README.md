@@ -23,7 +23,7 @@ This repository contains Javascript problem solving exercises categorized into B
 - Filter Polyfill.
 - Reduce Method.
 - Find the 2nd largest number from an array.
-- Call, Apply and Find
+- Call, Apply and Bind
 - Currying
 - sum(1)(2)(3)(4)(5)...()
 - Bind Polyfill
@@ -55,3 +55,4 @@ This repository contains Javascript problem solving exercises categorized into B
 - Filter Polyfill
 - Reduce Polyfill
 - Group employees by department and include the employee with the highest salary in each department
+- Practice call, apply and bind
