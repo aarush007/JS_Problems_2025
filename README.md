@@ -53,3 +53,4 @@ This repository contains Javascript problem solving exercises categorized into B
 - Merge two arrays of objects by id
 - Map Polyfill
 - Filter Polyfill
+- Reduce Polyfill
