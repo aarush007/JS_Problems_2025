@@ -56,3 +56,4 @@ This repository contains Javascript problem solving exercises categorized into B
 - Reduce Polyfill
 - Group employees by department and include the employee with the highest salary in each department
 - Practice call, apply and bind
+- forEach Polyfill
