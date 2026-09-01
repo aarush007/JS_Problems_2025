@@ -42,6 +42,7 @@ This repository contains Javascript problem solving exercises categorized into B
 - Remove duplicates from an array
 - Reverse the sentence
 - Reverse the string
+- Reverse words in the sentence
 - Find second largest number from an array
 - Word Logger
 - this keyword
