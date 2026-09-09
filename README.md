@@ -46,6 +46,8 @@ This repository contains Javascript problem solving exercises categorized into B
 - Word Logger
 - this keyword
 - Print all possible words of a string
+- Find most occuring character of a string
+- Star Pattern
 
 ### Advanced
 
