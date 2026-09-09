@@ -49,6 +49,7 @@ This repository contains Javascript problem solving exercises categorized into B
 - Find most occuring character of a string
 - Star Pattern
 - Two Sum Problem
+- Show Rating
 
 ### Advanced
 
