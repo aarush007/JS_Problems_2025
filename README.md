@@ -50,6 +50,9 @@ This repository contains Javascript problem solving exercises categorized into B
 - Star Pattern
 - Two Sum Problem
 - Show Rating
+- Find the longest word in a sentence
+- Find occurences of characters in a string
+- Replace all spaces with a '-' or '\_'
 
 ### Advanced
 
