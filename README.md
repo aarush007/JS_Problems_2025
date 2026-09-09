@@ -22,7 +22,6 @@ This repository contains Javascript problem solving exercises categorized into B
 - Map Polyfill.
 - Filter Polyfill.
 - Reduce Method.
-- Find the 2nd largest number from an array.
 - Call, Apply and Bind
 - Currying
 - sum(1)(2)(3)(4)(5)...()
