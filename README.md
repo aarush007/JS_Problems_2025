@@ -48,6 +48,7 @@ This repository contains Javascript problem solving exercises categorized into B
 - Print all possible words of a string
 - Find most occuring character of a string
 - Star Pattern
+- Two Sum Problem
 
 ### Advanced
 
