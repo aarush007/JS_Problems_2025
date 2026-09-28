@@ -11,7 +11,7 @@ function calculateNetAmount() {
     discountRate = 10;
   } else if (grossAmount > 2000) {
     discountRate = 5;
-  }
+  } else discountRate = 0;
 
   let discountAmount = (grossAmount * discountRate) / 100;
   let netAmount = grossAmount - discountAmount;
