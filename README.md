@@ -53,6 +53,7 @@ This repository contains Javascript problem solving exercises categorized into B
 - Find the longest word in a sentence
 - Find occurences of characters in a string
 - Replace all spaces with a '-' or '\_'
+- Split an array into chunks of size N
 
 ### Advanced
 
